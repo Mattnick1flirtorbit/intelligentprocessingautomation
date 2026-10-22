@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://intelligentprocessingautomation.com/sitemap.xml
